@@ -3,7 +3,10 @@ import React, { Component } from 'react'
 export class About extends Component {
   render() {
     return (
-      <div>About
+      <div><h1>About</h1>
+      <div class="alert alert-primary" role="alert">
+ Hi this is about our newsapp Please contact us for any issues!
+</div>
         
 Introducing NewsWave: Your Ultimate Source for Breaking News and In-Depth Analysis
 
@@ -17,12 +20,13 @@ Personalized Experience: We believe that your news feed should reflect your inte
 
 In-Depth Analysis: Understanding the context behind the headlines is essential in today's complex world. That's why NewsWave goes beyond just reporting the news – we provide in-depth analysis and expert commentary to help you make sense of what's happening. Whether it's a geopolitical crisis, a major corporate merger, or a scientific breakthrough, our team of analysts breaks down the key issues and explores their implications.
 
-Multimedia Content: Words can only convey so much. That's why NewsWave supplements its coverage with multimedia content, including videos, photo galleries, and interactive graphics. Immerse yourself in the story with visually compelling content that brings the news to life in new and exciting ways.
+<h2>Contact Us </h2>
 
-Community Engagement: We believe in the power of community and the importance of fostering meaningful discussions. That's why NewsWave provides a platform for readers to engage with each other and with our journalists. Share your thoughts, ask questions, and connect with like-minded individuals who share your passion for staying informed.
+For any issues and help please contact us on the below number 
+Phone No : 7002434344
+Email : help@us.com
 
-Trust and Integrity: In an era of misinformation and fake news, trust and integrity are more important than ever. At NewsWave, we hold ourselves to the highest standards of journalistic integrity. Our commitment to accuracy, fairness, and transparency ensures that you can always rely on us for credible, trustworthy news.
-      </div>
+</div>
     )
   }
 }
