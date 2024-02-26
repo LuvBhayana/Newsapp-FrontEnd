@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CleanTechnica"
+            },
+            "author": "Steve Hanley",
+            "title": "If AMOC Runs Amok, Life In The US & Europe Will Change Dramatically - CleanTechnica",
+            "description": "AMOC, otherwise known as the Gulf Stream, controls the climate in much of the northern hemisphere. What if it stops?",
+            "url": "https://cleantechnica.com/2024/02/12/if-amoc-runs-amok-life-in-the-us-europe-will-change-dramatically/",
+            "urlToImage": "https://cleantechnica.com/wp-content/uploads/2024/02/file-20230502-22-j8ayb1.jpg",
+            "publishedAt": "2024-02-12T06:45:01Z",
+            "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nAMOC — the abbreviation means nothing to most people living along the eastern seaboard of the United States, … [+8718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Sumanti Sen",
+            "title": "What is Alaskapox? Alaska reports first fatal case of viral disease - Hindustan Times",
+            "description": "The disease claimed the life of an elderly immunocompromised man from the Kenai peninsula, south of Anchorage, in late January",
+            "url": "https://www.hindustantimes.com/world-news/us-news/what-is-alaskapox-alaska-reports-first-fatal-case-of-viral-disease-101707705114005.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/12/1600x900/Representational_image_-_Pixabay_1707705211281_1707705211548.jpg",
+            "publishedAt": "2024-02-12T04:15:31Z",
+            "content": "Alaska health officials have confirmed the first death from a recently discovered viral disease Alaskapox. The disease claimed the life of an elderly immunocompromised man from the Kenai peninsula, s… [+2176 chars]"
+        }
+    ]
+}
